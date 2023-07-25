@@ -1,0 +1,10 @@
+* cl-parallel
+
+A parallelism library for Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/nahiluhmot/cl-parallel.git   |
+| commit  | 49f6c41  |
+| systems | cl-parallel |
+|---------+-------------------------------------------|
+
